@@ -10,6 +10,7 @@ This is a project created during the Intelligence Program 2017 by [Cinnamon AI L
 - [Phuc Le](https://lkhphuc.github.io), 
 - [Le Ngoc Phu](https://github.com/lephu0803), 
 - [Nguyen Hoang](https://github.com/amidadragon).
+
 # Slack Visual Summary
 Using Machine Learning to cluster messages and visually summarize for Slack's lengthy conversations. 
 
@@ -22,6 +23,6 @@ Using Machine Learning to cluster messages and visually summarize for Slack's le
 ![demo](/img/demo.gif)
 
 ## Live demo
-[](https://s3-ap-southeast-1.amazonaws.com/slack-visualize/summarize3.html)
-[](https://s3-ap-southeast-1.amazonaws.com/slack-visualize/summarize1.html)
+- [Demo 1](https://s3-ap-southeast-1.amazonaws.com/slack-visualize/summarize3.html)
+- [Demo 2](https://s3-ap-southeast-1.amazonaws.com/slack-visualize/summarize1.html)
 
