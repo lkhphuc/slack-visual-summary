@@ -19,6 +19,6 @@ Using Machine Learning to create a visual summary for Slack channels.
 ![demo](/img/demo.gif)
 
 ## Live demo
-[https://s3-ap-southeast-1.amazonaws.com/slack-visualize/summarize3.html]
-[https://s3-ap-southeast-1.amazonaws.com/slack-visualize/summarize1.html]
+(https://s3-ap-southeast-1.amazonaws.com/slack-visualize/summarize3.html)
+(https://s3-ap-southeast-1.amazonaws.com/slack-visualize/summarize1.html)
 
