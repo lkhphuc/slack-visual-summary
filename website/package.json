@@ -1,0 +1,14 @@
+{
+  "name": "slack",
+  "version": "1.0.0",
+  "description": "Visualization of slack message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Phuc Le",
+  "license": "ISC",
+  "dependencies": {
+    "vis": "^4.20.1"
+  }
+}
