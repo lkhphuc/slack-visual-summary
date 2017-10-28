@@ -6,9 +6,12 @@ use-site-title: true
 bigimg: /img/slide.jpg
 ---
 
-This is a project created during the Intelligence Program 2017 by [Cinnamon AI Lab](https://cinnamonailabs.wordpress.com/) by [Phuc Le](https://lkhphuc.github.io), [Le Ngoc Phu](https://github.com/lephu0803), [Nguyen Hoang](https://github.com/amidadragon).
-# slack-visual-summary
-Using Machine Learning to create a visual summary for Slack channels. 
+This is a project created during the Intelligence Program 2017 by [Cinnamon AI Lab](https://cinnamonailabs.wordpress.com/) by: 
+- [Phuc Le](https://lkhphuc.github.io), 
+- [Le Ngoc Phu](https://github.com/lephu0803), 
+- [Nguyen Hoang](https://github.com/amidadragon).
+# Slack Visual Summary
+Using Machine Learning to cluster messages and visually summarize for Slack's lengthy conversations. 
 
 ![preview](media/visually.png)
 
@@ -19,6 +22,6 @@ Using Machine Learning to create a visual summary for Slack channels.
 ![demo](/img/demo.gif)
 
 ## Live demo
-(https://s3-ap-southeast-1.amazonaws.com/slack-visualize/summarize3.html)
-(https://s3-ap-southeast-1.amazonaws.com/slack-visualize/summarize1.html)
+[](https://s3-ap-southeast-1.amazonaws.com/slack-visualize/summarize3.html)
+[](https://s3-ap-southeast-1.amazonaws.com/slack-visualize/summarize1.html)
 
